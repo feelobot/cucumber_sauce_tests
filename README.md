@@ -1,6 +1,5 @@
 # Installation
 * git clone
-* rvm use ruby-1.9.3 (optional)
 * bundle install
 * cucumber -t @complete
 
